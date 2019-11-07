@@ -2,10 +2,42 @@
   "Personne": [
     {
       "id": 1,
+      "pseudo": "sniper",
       "prenom": "Thomas",
-      "nom": "Nom",
+      "nom": "Drula",
+      "password": "974reunion",
+      "email": "chevalier@gmail.com"
+    },
+    {
+      "id": 2,
+      "pseudo": "Antoine",
+      "prenom": "Juliette",
+      "nom": "Paillette",
       "password": "974reunion",
       "email": "tdrula@gmail.com"
+    },
+    {
+      "id": 3,
+      "pseudo": "sniper97401",
+      "prenom": "inazuma",
+      "nom": "Paillette",
+      "password": "974reunion",
+      "email": "sniper@gmail.com"
+    },
+    {
+      "id": 4,
+      "pseudo": "Sundrake",
+      "prenom": "Thomas",
+      "nom": "Paillette",
+      "password": "974reunion",
+      "email": "tdrula@gmail.com"
+    }
+  ],
+  "logement": [
+    {
+      "id": 1,
+      "prix": "154",
+      "titre": "23 rue charles fourrier"
     }
   ]
 }
